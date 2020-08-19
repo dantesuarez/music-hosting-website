@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 110vh;
+    background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+}
+
+.head {
+    text-align: center;
+    margin: 60px;
+    font-size: 100px;
+    font-family: 'Monoton', cursive;
+    border: 3px solid black;
+}
+
+footer {
+    margin-top: 00px;
+    position: relative;
+    height: 10vh;
+    border-top: 3px solid black;
+    background-color: rgba(203, 170, 252, 0.699);
+    
+}
+
+footer a {
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 30px;
+    font-family: 'Alata', sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+.links {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.links a {
+    text-decoration: none;
+    color: black;
+}
+
+
+.links img {
+    margin-bottom: 75px;
+    height: 100px;
+}
+
+.cashapp img {
+    height: 110%;
+}
+
+.paypal img {
+    height: 170px;
+}
